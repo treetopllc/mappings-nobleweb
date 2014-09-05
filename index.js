@@ -40,7 +40,11 @@ exports.event_types = index([
 exports.group_types = index([
     "Volunteer",
     "Service Learning",
-    "On-the-Job Training"
+    "On-the-Job Training",
+    "Course",
+    "Department",
+    "Unit",
+    "College"
 ]);
 
 exports.opportunity_types = index({
