@@ -1,3 +1,6 @@
+# 0.0.3 (12/9/2014)
+ * remove offline opportunity type
+
 # 0.0.2 (9/5/2014)
  * pulling in upstream changes made in noble.js
 
