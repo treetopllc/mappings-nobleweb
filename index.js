@@ -48,7 +48,6 @@ exports.group_types = index([
 ]);
 
 exports.opportunity_types = index({
-    "-1": "Offline",
     0: "Internship",
     1: "Paying Job",
     2: "Volunteer Service",
