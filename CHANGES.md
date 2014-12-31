@@ -1,3 +1,6 @@
+# 0.0.4 (12/31/2014)
+ * add asset types
+
 # 0.0.3 (12/9/2014)
  * remove offline opportunity type
 
