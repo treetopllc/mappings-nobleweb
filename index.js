@@ -127,7 +127,7 @@ exports.activity_types = index([
     "Delete"
 ]);
 
-exports.asset_types = index([
+exports.asset_types = index({
     0: "notype",
     1: "aif",
     2: "doc",
@@ -153,7 +153,7 @@ exports.asset_types = index([
     22: "xls",
     23: "xlsx",
     24: "rtf"
-]);
+});
 
 function index(list) {
     var by_name = {};
