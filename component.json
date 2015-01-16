@@ -1,12 +1,12 @@
 {
-  "name": "mappings-nobleweb",
-  "repository": "treetopllc/mappings-nobleweb",
-  "version": "0.0.5",
-  "dependencies": {
-    "component/each": "*",
-    "ianstormtaylor/to-constant-case": "*"
-  },
-  "scripts": [
-    "index.js"
-  ]
+    "name": "mappings-nobleweb",
+    "repository": "treetopllc/mappings-nobleweb",
+    "version": "0.0.7",
+    "dependencies": {
+        "component/each": "*",
+        "ianstormtaylor/to-constant-case": "*"
+    },
+    "scripts": [
+        "index.js"
+    ]
 }
