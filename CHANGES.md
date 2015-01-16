@@ -1,3 +1,9 @@
+# 0.0.7 (1/16/2014)
+ * syntax fix
+
+# 0.0.6 (1/16/2014)
+ * remove collab group types
+
 # 0.0.5 (12/31/2014)
  * syntax fix
 
