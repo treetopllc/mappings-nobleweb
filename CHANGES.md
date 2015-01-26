@@ -1,3 +1,6 @@
+# 0.0.8 (1/16/2014)
+ * update group types
+
 # 0.0.7 (1/16/2014)
  * syntax fix
 
