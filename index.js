@@ -42,9 +42,9 @@ exports.group_types = index([
     "Service Learning",
     "On-the-Job Training",
     "Course",
-    "Department",
-    "Unit",
-    "College"
+    "Academic Department",
+    "Office",
+    "Centers/Institutes"
 ]);
 
 exports.opportunity_types = index({
@@ -59,7 +59,7 @@ exports.opportunity_types = index({
 
 exports.organization_types = index({
     "-1": "Offline",
-    0: "Community",
+    0: "Community-based",
     1: "Education",
     2: "Business",
     3: "Non-Profit",
