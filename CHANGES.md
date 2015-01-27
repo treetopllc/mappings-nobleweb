@@ -1,4 +1,7 @@
-# 0.0.8 (1/16/2014)
+# 0.0.9 (1/27/2014)
+ * update group types and org types
+
+# 0.0.8 (1/26/2014)
  * update group types
 
 # 0.0.7 (1/16/2014)
