@@ -1,13 +1,16 @@
-# 0.0.9 (1/27/2014)
+# 0.0.10 (1/30/2015)
+ * change role name from "Citizen" to "Member"
+
+# 0.0.9 (1/27/2015)
  * update group types and org types
 
-# 0.0.8 (1/26/2014)
+# 0.0.8 (1/26/2015)
  * update group types
 
-# 0.0.7 (1/16/2014)
+# 0.0.7 (1/16/2015)
  * syntax fix
 
-# 0.0.6 (1/16/2014)
+# 0.0.6 (1/16/2015)
  * remove collab group types
 
 # 0.0.5 (12/31/2014)
