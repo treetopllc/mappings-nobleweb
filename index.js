@@ -155,6 +155,17 @@ exports.asset_types = index({
     24: "rtf"
 });
 
+exports.relationship_types = index({
+    0: "Follower",
+    1: "Student",
+    2: "Faculty",
+    3: "Staff",
+    4: "Volunteer",
+    5: "Volunteer Coordinator",
+    6: "Organization Representative",
+    7: "Alumni"
+});
+
 function index(list) {
     var by_name = {};
     var by_id = {};
