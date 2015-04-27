@@ -1,7 +1,7 @@
 {
     "name": "mappings-nobleweb",
     "repository": "treetopllc/mappings-nobleweb",
-    "version": "0.0.11",
+    "version": "0.0.10",
     "dependencies": {
         "component/each": "*",
         "ianstormtaylor/to-constant-case": "*"
