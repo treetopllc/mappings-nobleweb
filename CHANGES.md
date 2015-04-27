@@ -1,3 +1,6 @@
+# 0.0.11 (4/27/2015)
+ * add relationship types
+
 # 0.0.10 (1/30/2015)
  * change role name from "Citizen" to "Member"
 
