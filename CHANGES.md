@@ -1,3 +1,6 @@
+# 0.0.12 (5/14/2015)
+ * add vertex type ID fpr Partnership
+
 # 0.0.11 (4/27/2015)
  * add vertex types
 
