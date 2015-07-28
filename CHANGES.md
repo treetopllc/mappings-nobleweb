@@ -1,3 +1,6 @@
+# 0.0.13 (7/28/2015)
+ * noblehour specific group types
+
 # 0.0.12 (5/14/2015)
  * add vertex type ID fpr Partnership
 
