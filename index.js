@@ -7,7 +7,7 @@ exports.edge_types = index({
     2:  "Admin",
     3:  "Moderator",
     4:  "Contributor",
-    5:  "Citizen",
+    5:  "Member",
     6:  "Follower",
     7:  "Like",
     //8:  "Author",
@@ -62,7 +62,7 @@ exports.organization_types = index({
     4: "Municipal",
     5: "Civic",
     6: "Greek",
-    7: "Citizen"
+    7: "Member"
 });
 
 exports.project_activities = index([
