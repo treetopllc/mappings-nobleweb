@@ -1,3 +1,6 @@
+# 0.0.14 (7/28/2015)
+ * Change "Citizen" to "Member"
+
 # 0.0.13 (7/28/2015)
  * noblehour specific group types
 
