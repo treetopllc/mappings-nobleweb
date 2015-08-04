@@ -1,3 +1,6 @@
+# 0.0.15 (8/03/2015)
+ * Add properties to statuses
+
 # 0.0.14 (7/28/2015)
  * Change "Citizen" to "Member"
 
@@ -5,7 +8,7 @@
  * noblehour specific group types
 
 # 0.0.12 (5/14/2015)
- * add vertex type ID fpr Partnership
+ * add vertex type ID for Partnership
 
 # 0.0.11 (4/27/2015)
  * add vertex types
