@@ -1,3 +1,6 @@
+# 0.0.16 (01/21/2016)
+ * Update dependency to use treetopllc fork
+
 # 0.0.15 (8/03/2015)
  * Add properties to statuses
 
