@@ -1,3 +1,6 @@
+# 0.0.17 (02/08/2016)
+ * Update string to prevent component from adding underscores
+
 # 0.0.16 (01/21/2016)
  * Update dependency to use treetopllc fork
 
