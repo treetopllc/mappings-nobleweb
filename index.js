@@ -43,15 +43,7 @@ exports.group_types = index({
     2: "On-the-Job Training"
 });
 
-exports.opportunity_types = index({
-    0: "Internship",
-    1: "Paying Job",
-    2: "Volunteer Service",
-    3: "Mentoring",
-    4: "Tutoring",
-    5: "Service Learning",
-    6: "Performance"
-});
+exports.opportunity_types = {};
 
 exports.organization_types = index({
     "-1": "Offline",
