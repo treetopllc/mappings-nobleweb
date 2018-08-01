@@ -43,6 +43,8 @@ exports.group_types = index({
     2: "On-the-Job Training"
 });
 
+exports.opportunity_types = {};
+
 exports.organization_types = index({
     "-1": "Offline",
     0: "Community-based",
@@ -101,7 +103,7 @@ exports.vertex_types = index({
     10: "Hours",
     11: "Address",
     12: "Asset",
-    13: "URL",
+    13: "Url",
     14: "Hours Set",
     15: "Email",
     16: "Relationship",
