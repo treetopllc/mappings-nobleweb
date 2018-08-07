@@ -156,7 +156,8 @@ exports.relationship_types = index({
     4: "Volunteer",
     5: "Volunteer Coordinator",
     6: "Organization Representative",
-    7: "Alumni"
+    7: "Alumni",
+    21: "Parent-Guardian"
 });
 
 function index(list) {
