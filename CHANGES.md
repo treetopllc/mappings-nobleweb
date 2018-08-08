@@ -1,3 +1,16 @@
+# 0.0.20 (08/08/2018)
+ * Adding new Parent-Guardian Relaionship Type
+ * Remove comments
+
+# 0.0.19 (08/01/2018)
+ * Updating Url to regular case
+
+# 0.0.18 (06/26/2018)
+ * Removing old Opp types
+
+# 0.0.17 (05/14/2015)
+ * Add Partnership to vertex_types
+
 # 0.0.16 (01/21/2016)
  * Update dependency to use treetopllc fork
 
