@@ -10,12 +10,9 @@ exports.edge_types = index({
     5:  "Member",
     6:  "Follower",
     7:  "Like",
-    //8:  "Author",
     9:  "Verifier",
     10: "Submission",
-    //11: "Hours",
     12: "Revision",
-    //13: "Location",
     14: "Email",
     15: "Partner"
 });
@@ -156,7 +153,8 @@ exports.relationship_types = index({
     4: "Volunteer",
     5: "Volunteer Coordinator",
     6: "Organization Representative",
-    7: "Alumni"
+    7: "Alumni",
+    21: "Parent-Guardian"
 });
 
 function index(list) {
