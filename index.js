@@ -43,7 +43,7 @@ exports.group_types = index({
 exports.opportunity_types = {};
 
 exports.organization_types = index({
-    "-1": "Offline",
+    "-1": "External",
     0: "Community-based",
     1: "Education",
     2: "Business",
